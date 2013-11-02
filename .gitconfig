@@ -1,8 +1,6 @@
 [user]
 	name = Kevin Shen
-	email = kevin.shen@getclever.com
-[credential]
-	helper = osxkeychain
+	email = kwshen@gmail.com 
 
 [color]
 	ui = true
@@ -46,3 +44,9 @@
 
 [diff]
 	tool = vimdiff
+
+[color]
+	ui = true
+
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
